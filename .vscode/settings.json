@@ -1,0 +1,8 @@
+{
+    "Lua.workspace.library": [
+        "C:/Users/red/AppData/Roaming/Code/User/globalStorage/sumneko.lua/addonManager/addons/argparse/module/library",
+        "C:/Users/red/AppData/Roaming/Code/User/globalStorage/sumneko.lua/addonManager/addons/cc-tweaked/module/library"
+    ],
+    "Lua.workspace.checkThirdParty": false,
+    "Lua.runtime.version": "Lua 5.3"
+}
